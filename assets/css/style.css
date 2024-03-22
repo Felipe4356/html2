@@ -1,0 +1,56 @@
+body{
+margin: 0;
+padding: 0;
+ 
+background-image: url(https://www.publicdomainpictures.net/pictures/140000/nahled/blue-background-14466365179vp.jpg);
+ background-size: cover;
+ background-position: center ;
+ font-family:  sans-serif;
+}
+
+.foto_a{
+    border-radius:  50px;
+     position: fixed;
+     top: 350px;
+     right:1000px;
+    
+}
+
+
+.link1{
+position: fixed;
+
+top: 430px;
+right: 800px ;
+
+
+}
+
+.foto_b{
+
+border-radius:  50px;
+     position: fixed;
+     top: 560px;
+     right:1000px;
+}
+
+
+.link2{
+ position:  fixed;
+ top: 650px;;
+ right: 800px; 
+
+
+}
+
+
+
+
+   
+      li{
+     margin-left: 300px; /* Ajusta este valor según lo que necesites */
+   }
+   
+ /* Estilo para el contenedor que deseas hacer desplazable */
+
+ 

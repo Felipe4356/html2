@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+     
+    background-image: url(https://www.publicdomainpictures.net/pictures/140000/nahled/blue-background-14466365179vp.jpg);
+     background-size: cover;
+     background-position: center ;
+     font-family:  sans-serif;
+}
+
+.pag3_dop3{
+    border: 50px;
+ position: fixed;
+ top: 300px;
+ right: 950px; 
+ border-radius: 10% ;
+
+}
+.pag3_dop2{
+    border: 50px;
+ position: fixed;
+ top: 450px;
+ right: 950px;; ;
+ border-radius: 10% ;
+
+}
+.pag3_dop1{
+    border: 50px;
+ position: fixed;
+ top: 600px;
+ right: 950px;; ;
+ border-radius: 10% ;
+
+}
+
+.dop1{
+    border: 50px;
+ position: fixed;
+ top: 647px;
+ right: 800px;; ;
+
+}
+
+.dop2{
+    border: 50px;
+ position: fixed;
+ top: 500px;
+ right: 800px;; ;
+}
+.dop3{
+    border: 50px;
+ position: fixed;
+ top: 340px;
+ right: 800px; ;
+
+}
+
+.back{
+    position: fixed;
+    top: 3px; ;
+    right: 15px;
+}

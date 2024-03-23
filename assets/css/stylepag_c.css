@@ -14,17 +14,17 @@ body {
 }
 
 .pag_dop3 {
-    top: 300px;
+    top: 250px;
     right: 1000px; /* Ajuste en la posición para evitar superposición */
 }
 
 .pag_dop2 {
-    top: 450px;
+    top: 370px;
     right: 1000px; /* Ajuste en la posición para evitar superposición */
 }
 
 .pag_dop1 {
-    top: 600px;
+    top: 500px;
     right: 1000px; /* Ajuste en la posición para evitar superposición */
 }
 
@@ -35,17 +35,17 @@ position: fixed;
 
 
 .dop1 {
-    top: 647px;
+    top: 550px;
     right: 850px; /* Ajuste en la posición para evitar superposición */
 }
 
 .dop2 {
-    top: 500px;
+    top: 430px;
     right: 850px; /* Ajuste en la posición para evitar superposición */
 }
 
 .dop3 {
-    top: 340px;
+    top: 300px;
     right: 850px; /* Ajuste en la posición para evitar superposición */
 }
 

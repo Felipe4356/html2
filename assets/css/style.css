@@ -11,7 +11,7 @@ background-image: url(https://www.publicdomainpictures.net/pictures/140000/nahle
 .foto_a{
     border-radius:  50px;
      position: fixed;
-     top: 350px;
+     top: 310px;
      right:1000px;
     
 }
@@ -20,7 +20,7 @@ background-image: url(https://www.publicdomainpictures.net/pictures/140000/nahle
 .link1{
 position: fixed;
 
-top: 430px;
+top: 400px;
 right: 800px ;
 
 
@@ -30,14 +30,14 @@ right: 800px ;
 
 border-radius:  50px;
      position: fixed;
-     top: 560px;
+     top: 500px;
      right:1000px;
 }
 
 
 .link2{
  position:  fixed;
- top: 650px;;
+ top: 600px;;
  right: 800px; 
 
 

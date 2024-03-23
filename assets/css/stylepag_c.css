@@ -7,42 +7,46 @@ body {
     font-family: sans-serif;
 }
 
-.pag3_dop3, .pag3_dop2, .pag3_dop1 {
+.pag_dop3, .pag_dop2, .pag_dop1 {
     position: absolute; /* Cambiado de fixed a absolute */
     border: 2px solid black;
     border-radius: 10%;
 }
 
-.pag3_dop3 {
+.pag_dop3 {
     top: 300px;
     right: 1000px; /* Ajuste en la posición para evitar superposición */
 }
 
-.pag3_dop2 {
+.pag_dop2 {
     top: 450px;
     right: 1000px; /* Ajuste en la posición para evitar superposición */
 }
 
-.pag3_dop1 {
+.pag_dop1 {
     top: 600px;
     right: 1000px; /* Ajuste en la posición para evitar superposición */
 }
 
+.dop1,.dop2,.dop3{
+position: fixed;
+
+}
 
 
 .dop1 {
     top: 647px;
-    right: 300px; /* Ajuste en la posición para evitar superposición */
+    right: 850px; /* Ajuste en la posición para evitar superposición */
 }
 
 .dop2 {
     top: 500px;
-    right: 300px; /* Ajuste en la posición para evitar superposición */
+    right: 850px; /* Ajuste en la posición para evitar superposición */
 }
 
 .dop3 {
     top: 340px;
-    right: 300px; /* Ajuste en la posición para evitar superposición */
+    right: 850px; /* Ajuste en la posición para evitar superposición */
 }
 
 .back {
